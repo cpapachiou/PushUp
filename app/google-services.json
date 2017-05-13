@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "635496679041",
+    "firebase_url": "https://my-projectsdb.firebaseio.com",
+    "project_id": "my-projectsdb",
+    "storage_bucket": "my-projectsdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635496679041:android:d3792c805aa2dfd4",
+        "android_client_info": {
+          "package_name": "com.example.christospaspalieris.educationprogram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635496679041-v9sln9qhtmdl2doucl7sj8utp2hgjva1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcqW_kk888tCREpDPcH5A00HuCDU4rjgo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
